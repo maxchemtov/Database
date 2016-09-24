@@ -7,5 +7,7 @@ The database colour codes the entries, taking the above conditions into
 account. There are several other automated features, which are listed by
 clicking a button labelled "Instructions" in the top left corner.
 
+The Extra-Curricular Activities Coordinator required that it be an Excel file.
+
 Created by Max Chemtov, for the Royal West Academy Extra-Curricular
 Activities Office, 2012.
