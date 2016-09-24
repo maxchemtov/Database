@@ -5,7 +5,7 @@ year, and could not miss the same category two years in a row.
 
 The database colour codes the entries, taking the above conditions into
 account. There are several other automated features, which are listed by
-clicking a button labelled "Instructions" in the top left corner.
+clicking the button labelled "Instructions" in the top left corner.
 
 The Extra-Curricular Activities Coordinator required that it be an Excel file.
 
